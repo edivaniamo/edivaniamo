@@ -14,7 +14,7 @@
 
 ---
 
-## 👋 Olá! Sou **Edivânia Moraes**, seja muito bem-vindo(a)!
+## 👋 Olá! Sou **Edivânia Moraes**, bem-vindo(a)!
 
 Ser analista de testes de software não é apenas validar requisitos — é **garantir valor, promover confiança e antecipar riscos**, contribuindo desde o início do desenvolvimento até a entrega final.
 
