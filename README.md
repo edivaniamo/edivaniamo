@@ -51,7 +51,7 @@ Com a aplicação de boas práticas, como o padrão **Page Object**, reduzi **80
 ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
 ![iOS](https://img.shields.io/badge/-iOS-000000?logo=apple&logoColor=white&style=for-the-badge)
 
-### 🔸 Testes de API
+### 🔸 Testes API
 
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black&style=for-the-badge)
@@ -71,3 +71,8 @@ Com a aplicação de boas práticas, como o padrão **Page Object**, reduzi **80
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white&style=for-the-badge)
+
+---
+
+## Atividades
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edivaniamo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
