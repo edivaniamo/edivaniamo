@@ -16,9 +16,9 @@
 
 ## 👋 Olá! Sou **Edivânia Moraes**, bem-vindo(a)!
 
-Ser analista de testes de software não é apenas validar requisitos — é **garantir valor, promover confiança e antecipar riscos**, contribuindo desde o início do desenvolvimento até a entrega final.
+Ser analista de testes de software não é apenas validar requisitos — é **garantir valor, promover confiança e antecipar riscos, contribuindo desde o início do desenvolvimento até a entrega final**.
 
-Ao longo da minha jornada, fui me moldando sprint a sprint, combinando experiências práticas com uma base sólida: sou formada em **Bacharelado em Sistemas de Informação**, o que me ajuda a conectar a área técnica, o negócio e a qualidade de forma estratégica.
+Ao longo da minha jornada, fui me moldando sprint a sprint, combinando experiências práticas com uma base sólida: sou formada em **Bacharelado em Sistemas da Informação**, o que me ajuda a conectar a área técnica, o negócio e a qualidade de forma estratégica.
 
 ---
 
