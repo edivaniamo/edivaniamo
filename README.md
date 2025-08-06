@@ -24,9 +24,9 @@ Ao longo da minha jornada, fui me moldando sprint a sprint, combinando experiên
 
 ## 🔍 Entre vários desafios técnicos, destaco um:
 
-- Implementei testes automatizados em APIs críticas, ampliando a cobertura e reduzindo em até **70% o esforço com testes regressivos manuais**.
-- Antecipei a definição de **cenários ainda na fase de refinamento**, contribuindo para a **redução de bugs** em testes e produção.
-- Compartilhei conhecimento com outros QAs e **colaborei na melhoria** de processos já padronizados.
+- Implementei testes automatizados em APIs críticas, ampliando a cobertura e reduzindo em até **70% o esforço com testes regressivos manuais**;
+- Antecipei a definição de **cenários ainda na fase de refinamento**, contribuindo para a **redução de bugs** em testes e produção;
+- Compartilhei conhecimento com outros QAs e **colaborei na melhoria** de processos já padronizados;
 - Trabalhei ao lado dos **desenvolvedores na investigação** e **correção de bugs**, analisando logs, identificando causas-raiz e apoiando na resolução das falhas.
 
 ---
